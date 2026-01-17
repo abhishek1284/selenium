@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="79f09233-67bb-4754-bd2e-eeb151d793de" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automation/SauceDemoAddToCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automation/SauceDemoAddToCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automation/SauceDemoCheckout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automation/SauceDemoCheckout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automation/SauceDemoFilterProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automation/SauceDemoFilterProducts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automation/SauceDemoInvalidLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automation/SauceDemoInvalidLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automation/SauceDemoValidLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automation/SauceDemoValidLoginPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +52,12 @@
     "Application.OrangeHRMJobSearch.executor": "Run",
     "Application.OrangeHRMLoginTest.executor": "Run",
     "Application.ProgressBarExample.executor": "Run",
+    "Application.SauceDemoAddToCart.executor": "Run",
+    "Application.SauceDemoAddTwoItemsStable.executor": "Run",
+    "Application.SauceDemoCheckout.executor": "Run",
+    "Application.SauceDemoFilterProducts.executor": "Run",
+    "Application.SauceDemoInvalidLoginTest.executor": "Run",
+    "Application.SauceDemoValidLoginPage.executor": "Run",
     "Application.SeleniumLocators.executor": "Run",
     "Application.SeleniumUsingClassName.executor": "Run",
     "Application.SeleniumUsingNameLocator.executor": "Run",
